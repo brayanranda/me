@@ -1,0 +1,137 @@
+{
+    "projects": [
+        {
+            "img": "/images/project/archila.PNG",
+            "date": "May 29, 2021",
+            "title": "Fisioterapia & estética avanzada Andrea Archila",
+            "description": "Andrea Archila fisioterapia & estética avanzada te ofrecemos y asesoramos los tratamientos medico estéticos a medida de tus necesidades",
+            "url": "http://18.220.37.37/andrea_archila/login"
+        },
+        {
+            "img": "/images/project/pscworld.PNG",
+            "date": "Nov 20, 2020",
+            "title": "PSC World",
+            "description": "Queremos ser tu aliado en la transformación digital de tu empresa, conoce nuestros servicios de generación de certificados y firma digital con validez legal.",
+            "url": "https://www.pscworld.com/"
+        },
+        {
+            "img": "/images/project/ideasbank.PNG",
+            "date": "Feb 15, 2021",
+            "title": "Ideas bank",
+            "description": "Quieres retarte y trabajar con grandes proyectos, te dejo mis recomendaciones de retos que te ayudaran a mejorar tu portafolio.",
+            "url": "https://nervous-lamport-0a03eb.netlify.app/"
+        },
+        {
+            "img": "/images/project/ahp.PNG",
+            "date": "May 8, 2022",
+            "title": "Analytic Hierarchy Process",
+            "description": "Sistematización de proceso de análisis jerárquico para problemas de decisión múltiple",
+            "url": "http://angular-ahp.s3-website.us-east-2.amazonaws.com/login"
+        },
+        {
+            "img": "/images/project/ctiam.PNG",
+            "date": "Dic 21, 2020",
+            "title": "Tienda CTIAM",
+            "description": "Somos un grupo de mujeres y niñas involucradas con la ciencia, las TIC, la innovación y las matemáticas.",
+            "url": "https://tienda-ctiam.herokuapp.com/"
+        },
+        {
+            "img": "/images/project/siaweb.PNG",
+            "date": "Ene 8, 2020",
+            "title": "Siaweb UFPS",
+            "description": "Quieres retarte y trabajar con grandes proyectos, te dejo mis recomendaciones de retos que te ayudaran a mejorar tu portafolio.",
+            "url": "http://siaweb.ufps.edu.co/"
+        },
+        {
+            "img": "/images/project/col.PNG",
+            "date": "Mar 2, 2020",
+            "title": "Colegio Puerto Nuevo",
+            "description": "Dirigida a la niñez y juventud en proceso de formación, fundamentada en Educar para la Alegría",
+            "url": "http://siaweb.ufps.edu.co/proyectos/colport/"
+        }
+        
+    ], 
+    "technologies": [
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "html5",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/html.png",
+            "alt": "html"
+        },
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "css",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/css.png",
+            "alt": "css"
+        },
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "javascript",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/js.png",
+            "alt": "javascript"
+        },
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "React JS",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/react.png",
+            "alt": "React JS"
+        },
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "Angular",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/angular.png",
+            "alt": "Angular"
+        },
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "Bootstrap",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/bootstrap.png",
+            "alt": "Bootstrap"
+        },
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "TailwindCSS",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/tailwindcss.png",
+            "alt": "TailwindCSS"
+        },
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "Figma",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/figma.png",
+            "alt": "Figma"
+        },
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "AdobeXD",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/adobexd.png",
+            "alt": "AdobeXD"
+        },
+
+        {
+            "databstoggle": "tooltip",
+            "databsplacement": "top",
+            "title": "Adobe Illustrator",
+            "class": "w-16 md:w-20 mx-auto",
+            "src": "/images/technology/illustrator.jpg",
+            "alt": "AdobeIllustrator"
+        }
+    ]
+}
