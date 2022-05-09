@@ -1,18 +1,18 @@
 {
     "projects": [
         {
-            "img": "/images/project/archila.PNG",
-            "date": "May 29, 2021",
-            "title": "Fisioterapia & estética avanzada Andrea Archila",
-            "description": "Andrea Archila fisioterapia & estética avanzada te ofrecemos y asesoramos los tratamientos medico estéticos a medida de tus necesidades",
-            "url": "http://18.220.37.37/andrea_archila/login"
-        },
-        {
             "img": "/images/project/pscworld.PNG",
             "date": "Nov 20, 2020",
             "title": "PSC World",
             "description": "Queremos ser tu aliado en la transformación digital de tu empresa, conoce nuestros servicios de generación de certificados y firma digital con validez legal.",
             "url": "https://www.pscworld.com/"
+        },
+        {
+            "img": "/images/project/archila.PNG",
+            "date": "May 29, 2021",
+            "title": "Fisioterapia & estética avanzada Andrea Archila",
+            "description": "Andrea Archila fisioterapia & estética avanzada te ofrecemos y asesoramos los tratamientos medico estéticos a medida de tus necesidades",
+            "url": "https://brayanismaelpr.vercel.app/"
         },
         {
             "img": "/images/project/ideasbank.PNG",
