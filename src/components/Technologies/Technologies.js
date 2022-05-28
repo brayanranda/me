@@ -12,7 +12,7 @@ export default function Technologies() {
 
         <div className="grid grid-cols-2 gap-10 sm:grid-cols-3 lg:grid-cols-5 mr-0 md:ml-6 text-center">
           {data.technologies.map((el, id) => (
-            <div key={id}>
+            <div data-aos="zoom-in-up" key={id}>
               <img
                 data-bs-toggle={el.databstoggle}
                 data-bs-placement={el.databsplacement}

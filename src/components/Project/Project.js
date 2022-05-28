@@ -6,7 +6,7 @@ export default function Project() {
   return (
     <>
       {data.projects.map((el, id) => (
-        <a key={id} target="_blank" href={el.url}>
+        <a data-aos="zoom-in-up" key={id} target="_blank" href={el.url}>
           <figure className="text-left transform duration-300 hover:scale-105">
             <img
               className="rounded-md w-full h-60 object-fit object-cover"
