@@ -21,11 +21,18 @@ code {
   position: absolute;
   z-index: 1;
   left: 50%;
-  /* right: auto; */
   bottom: -1.8rem; 
-  /* transform: translateY(-2rem) translateX(-2rem); */
 }
 
-.tooltip:hover .tooltip-content {
-  visibility: visible;
+.tooltip:hover .tooltip-content {visibility: visible;}
+
+body::-webkit-scrollbar {
+	background: linear-gradient(0deg, #1b71fc, #5562fc, #4eeaf9);
+	width: 15px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #000000;
+	opacity: .85;
+	width: 15px;
 }
