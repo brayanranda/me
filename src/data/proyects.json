@@ -55,7 +55,7 @@
         {
             "databstoggle": "tooltip",
             "databsplacement": "top",
-            "title": "html5",
+            "title": "HTML5",
             "class": "w-16 md:w-20 mx-auto",
             "src": "/images/technology/html.png",
             "alt": "html"
@@ -63,7 +63,7 @@
         {
             "databstoggle": "tooltip",
             "databsplacement": "top",
-            "title": "css",
+            "title": "CSS3",
             "class": "w-16 md:w-20 mx-auto",
             "src": "/images/technology/css.png",
             "alt": "css"
@@ -71,7 +71,7 @@
         {
             "databstoggle": "tooltip",
             "databsplacement": "top",
-            "title": "javascript",
+            "title": "JavaScript",
             "class": "w-16 md:w-20 mx-auto",
             "src": "/images/technology/js.png",
             "alt": "javascript"
@@ -79,10 +79,10 @@
         {
             "databstoggle": "tooltip",
             "databsplacement": "top",
-            "title": "React JS",
+            "title": "ReactJS",
             "class": "w-16 md:w-20 mx-auto",
             "src": "/images/technology/react.png",
-            "alt": "React JS"
+            "alt": "ReactJS"
         },
         {
             "databstoggle": "tooltip",

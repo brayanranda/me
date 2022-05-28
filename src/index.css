@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.tooltip .tooltip-content {
+  visibility: hidden;
+  display: inline-block;
+  border-radius:5px;
+  padding: .1rem .5rem;
+  background-color: rgb(6, 118, 255);
+  color: #fff;
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  /* right: auto; */
+  bottom: -1.8rem; 
+  /* transform: translateY(-2rem) translateX(-2rem); */
+}
+
+.tooltip:hover .tooltip-content {
+  visibility: visible;
+}
