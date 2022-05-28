@@ -5,9 +5,6 @@ export default function Abilities() {
         <h3 className="text-md md:text-xl font-bold text-blue-500 uppercase">
           Habilidades
         </h3>
-        <h2 className="text-xl md:text-3xl">
-          Conoce nuestra forma de trabajo.
-        </h2>
       </article>
       <article
         data-aos="fade-right"
