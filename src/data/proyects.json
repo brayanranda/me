@@ -15,18 +15,18 @@
             "url": "https://brayanismaelpr.vercel.app/"
         },
         {
-            "img": "/images/project/ideasbank.PNG",
-            "date": "Feb 15, 2021",
-            "title": "Ideas bank",
-            "description": "Quieres retarte y trabajar con grandes proyectos, te dejo mis recomendaciones de retos que te ayudaran a mejorar tu portafolio.",
-            "url": "https://react-ideasbank.vercel.app/"
-        },
-        {
             "img": "/images/project/ahp.PNG",
             "date": "May 8, 2022",
             "title": "Analytic Hierarchy Process",
             "description": "Sistematización de proceso de análisis jerárquico para problemas de decisión múltiple",
             "url": "http://angular-ahp.s3-website.us-east-2.amazonaws.com/login"
+        },
+        {
+            "img": "/images/project/ideasbank.PNG",
+            "date": "En curso",
+            "title": "Ideas bank",
+            "description": "Quieres retarte y trabajar con grandes proyectos, te dejo mis recomendaciones de retos que te ayudaran a mejorar tu portafolio.",
+            "url": "https://react-ideasbank.vercel.app/"
         },
         {
             "img": "/images/project/ctiam.PNG",
@@ -36,20 +36,19 @@
             "url": "https://tienda-ctiam.herokuapp.com/"
         },
         {
-            "img": "/images/project/siaweb.PNG",
-            "date": "Ene 8, 2020",
-            "title": "Siaweb UFPS",
-            "description": "Quieres retarte y trabajar con grandes proyectos, te dejo mis recomendaciones de retos que te ayudaran a mejorar tu portafolio.",
-            "url": "http://siaweb.ufps.edu.co/"
-        },
-        {
             "img": "/images/project/col.PNG",
             "date": "Mar 2, 2020",
             "title": "Colegio Puerto Nuevo",
             "description": "Dirigida a la niñez y juventud en proceso de formación, fundamentada en Educar para la Alegría",
             "url": "http://siaweb.ufps.edu.co/proyectos/colport/"
+        },
+        {
+            "img": "/images/project/siaweb.PNG",
+            "date": "Ene 8, 2020",
+            "title": "Siaweb UFPS",
+            "description": "Quieres retarte y trabajar con grandes proyectos, te dejo mis recomendaciones de retos que te ayudaran a mejorar tu portafolio.",
+            "url": "http://siaweb.ufps.edu.co/"
         }
-        
     ], 
     "technologies": [
         {
