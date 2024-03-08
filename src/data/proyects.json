@@ -2,6 +2,13 @@
     "projects": [
         {
             "img": "/images/project/pscworld.PNG",
+            "date": "Enero 2024",
+            "title": "Proyecto Seed",
+            "description": "Una forma de aprender estructuras de Datos en Java.",
+            "url": "https://project-seed-ufps.vercel.app//"
+        },
+        {
+            "img": "/images/project/pscworld.PNG",
             "date": "Nov 20, 2020",
             "title": "PSC World",
             "description": "Queremos ser tu aliado en la transformación digital de tu empresa, conoce nuestros servicios de generación de certificados y firma digital con validez legal.",
