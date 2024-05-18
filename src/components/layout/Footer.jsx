@@ -21,8 +21,9 @@ export default function Footer() {
                     className="cursor-pointer bg-gray-800 h-10 w-10 flex items-center justify-center rounded-full mr-4 lg:mr-0 lg:ml-4 duration-300 hover:bg-gray-700"
                 >
                     <Link
-                        className="flex"
                         to={el.url}
+                        target='_blank'
+                        className="flex"
                         title={el.title}
                     >
                         <FontAwesomeIcon icon={el.ico} />

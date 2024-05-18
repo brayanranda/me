@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 body::-webkit-scrollbar {
 	background: linear-gradient(0deg, #1b71fc, #5562fc, #4eeaf9);
 	width: 15px;
@@ -12,3 +14,12 @@ body::-webkit-scrollbar-thumb {
 	opacity: .85;
 	width: 15px;
 }
+
+.bg-black-slider {
+    background: rgb(0,0,0);
+    background: linear-gradient(-90deg, rgba(0,0,0,1) 65%, rgba(0,0,0,0) 100%);
+}
+@media (max-width: 767px) {
+    .bg-black-slider {background: linear-gradient(0deg, rgba(0,0,0,1) 16%, rgba(0,0,0,0) 100%);}
+}
+.typography {font-family: 'Pacifico', cursive;}

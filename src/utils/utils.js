@@ -11,22 +11,22 @@ export const menu = [
 
 export const socialmedia = [
     {
-        "ico": {faInstagram}, 
-        "url": "https://www.instagram.com/brayanismaelpr/",
+        "ico": faInstagram, 
+        "url": "https://www.instagram.com/bryxnrandx/",
         "title": "instagram"
     },
     {
-        "ico": {faLinkedin},
+        "ico": faLinkedin,
         "url": "https://www.linkedin.com/in/brayanismaelpr/",
         "title": "linkedin"
     },
     {
-        "ico": {faGithub},
+        "ico": faGithub,
         "url": "https://github.com/brayanranda",
         "title": "github"
     },
     {
-        "ico": {faYoutube},
+        "ico": faYoutube,
         "url": "https://www.youtube.com/channel/UC0ZOW_fxmt5FSjM9Hdfp1yw",
         "title": "youtube"
     }
@@ -43,6 +43,6 @@ export const slider = [
         "image": "/images/slider/ahp.PNG", 
         "title": "Analytic Hierarchy Process",
         "description": "Sistematización de proceso de análisis jerárquico para problemas de decisión múltiple.",
-        "url": "http://angular-ahp.s3-website.us-east-2.amazonaws.com/login"
+        "url": "http://ahp.dthub.link"
     }
 ]
