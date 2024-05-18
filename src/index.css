@@ -1,30 +1,6 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-.tooltip .tooltip-content {
-  visibility: hidden;
-  display: inline-block;
-  border-radius:5px;
-  padding: .1rem .5rem;
-  background-color: rgb(6, 118, 255);
-  color: #fff;
-  position: absolute;
-  z-index: 1;
-  left: 50%;
-  bottom: -1.8rem; 
-}
-
-.tooltip:hover .tooltip-content {visibility: visible;}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 body::-webkit-scrollbar {
 	background: linear-gradient(0deg, #1b71fc, #5562fc, #4eeaf9);
