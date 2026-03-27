@@ -81,10 +81,16 @@ export const technologies = [
         "alt": "javascript"
     },
     {
-        "title": "Bootstrap",
+        "title": "Jest",
         "class": "w-16 md:w-20 mx-auto",
-        "src": "/images/technology/bootstrap.png",
-        "alt": "Bootstrap"
+        "src": "/images/technology/jest.png",
+        "alt": "Jest"
+    },
+    {
+        "title": "Redux",
+        "class": "w-16 md:w-20 mx-auto",
+        "src": "/images/technology/redux.png",
+        "alt": "Redux"
     },
     {
         "title": "Spring Boot",
