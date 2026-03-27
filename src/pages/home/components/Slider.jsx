@@ -8,7 +8,7 @@ export default function Slider() {
   return (
     <Splide aria-label="My Favorite Images">
       {
-        slider.map((el, id) => 
+        slider.map((el, id) =>
           <SplideSlide key={id}>
             <figure className="relative items-center justify-between w-full">
               <img
@@ -21,15 +21,6 @@ export default function Slider() {
                 </p>
                 <h1 className="font-bold text-3xl lg:text-5xl typography">{el.title}</h1>
                 <p className="my-3 lg:my-5 leading-7 text-md lg:text-xl">{el.description}</p>
-                <div className="flex items-center">
-                  <Link
-                    to={el.url}
-                    target="_blank"
-                    className="hover:bg-black duration-300 hover:border-black hover:text-white text-black mr-2 h-9 rounded-md px-2 flex items-center justify-center border-2 border-white bg-white"
-                  >
-                    Ver más
-                  </Link>
-                </div>
               </figcaption>
             </figure>
           </SplideSlide>

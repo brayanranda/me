@@ -16,20 +16,20 @@ export default function Footer() {
         <ul className="flex justify-center mt-4 lg:mt-0">
           {
             socialmedia.map((el, id) => (
-                <li
-                    key={id}
-                    className="cursor-pointer bg-gray-800 h-10 w-10 flex items-center justify-center rounded-full mr-4 lg:mr-0 lg:ml-4 duration-300 hover:bg-gray-700"
+              <li
+                key={id}
+                className="cursor-pointer bg-gray-800 h-10 w-10 flex items-center justify-center rounded-full mr-4 lg:mr-0 lg:ml-4 duration-300 hover:bg-gray-700"
+              >
+                <Link
+                  to={el.url}
+                  target='_blank'
+                  className="flex"
+                  title={el.title}
                 >
-                    <Link
-                        to={el.url}
-                        target='_blank'
-                        className="flex"
-                        title={el.title}
-                    >
-                        <FontAwesomeIcon icon={el.ico} />
-                    </Link>
-                </li>
-          ))}
+                  <FontAwesomeIcon icon={el.ico} size='lg' />
+                </Link>
+              </li>
+            ))}
         </ul>
       </div>
     </footer>
